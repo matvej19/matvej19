@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matvej19
-- 👀 I’m interested in football
+- 👀 I’m interested in physics, algebra
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on {anyone}
 - 📫 How to reach me ...
